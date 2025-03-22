@@ -1,0 +1,16 @@
+.header{
+    background-image: linear-gradient(to right , #ef32d9, #89fffd);
+}
+.nav-link{
+    color: white !important;
+}
+.brand-img{
+    margin-inline-start: 0%;
+    height: 70px;
+    width: 70px;
+}
+.container{
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+}

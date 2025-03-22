@@ -1,0 +1,53 @@
+.body{
+    height: 100vh;
+    background-color: rgb(247, 204, 243);
+}
+.firstname{
+    margin-left: 39px;
+}
+.lastname{
+    margin-left: 93px;
+}
+.email{
+    margin-left: 40px;
+}
+.pass{
+    font-size: 21px;
+    
+}
+.password{
+    margin-left: 6px;
+}
+.radio{
+    margin-left: 59px;
+}
+.radio1{
+    margin-left: 40px;
+}
+.Address{
+    margin-left: 22px;
+}
+.number{
+    margin-left: 30px;
+}
+
+.card-container {
+    align-content: center;
+    justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.card{
+    background-image: linear-gradient(to right , #ef32d9, #89fffd);
+    height: 450px;
+    width: 500px;
+    box-shadow: 8px 10px 10px black;
+    font-family: "Roboto";
+    margin: 13px;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .rese{
+    margin-left: 20px;
+  }

@@ -1,0 +1,32 @@
+.username{
+    margin-left: 10px;
+}
+
+.passw{
+    margin: 10px;
+    margin-left: 20px;
+}
+.submit{
+    margin-left: 20px;
+}
+.reset{
+    margin-left: 60px;
+}
+.card--container {
+    align-content: center;
+    justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.caard{
+    background-image: linear-gradient(to right , #ef32d9, #89fffd);
+    background-color: white;
+    height: 250px;
+    width: 500px;
+    box-shadow: 8px 10px 10px black;
+    font-family: "Roboto";
+    margin: 13px;
+    padding: 20px;
+    border-radius: 20px;
+  }
